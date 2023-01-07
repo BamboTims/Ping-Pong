@@ -7,4 +7,4 @@ Features:
 <li>Two player mode</li>
 </ul>
 
-##Try to beat the computer.
+## Try to beat the computer.
